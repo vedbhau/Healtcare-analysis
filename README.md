@@ -1,10 +1,10 @@
-Healthcare Data Analysis with Power BI
+<h1>***Healthcare Data Analysis with Power BI***</h1>
 
-Overview
+**Overview**
 
 This repository contains a Power BI project designed to uncover valuable insights from raw medical data. By leveraging Power BI's data visualization capabilities, we've created interactive dashboards to enhance decision-making and improve healthcare operations.
 
-Key Findings
+<h2>Key Findings</h2>
 
 Patient Demographics:
 
@@ -28,10 +28,10 @@ Filter and Segment Data: Utilize slicers to partition data by rural/urban areas,
 Explore Trends Over Time: Analyze patient counts by year and week using a matrix visual.
 How to Use
 
-Clone the Repository:
+<h3>Clone the Repository:</h3>
 
 Bash
-git clone https://github.com/vedbhau/Healtcare-analysis.git
+``git clone https://github.com/vedbhau/Healtcare-analysis.git``
 Use code with caution.
 
 Open the Power BI File:
@@ -44,7 +44,7 @@ Interact with the dashboards to gain insights.
 Filter, drill down, and explore the data as needed.
 Potential Use Cases
 
-Patient Care:
+<h4>Patient Care:</h4>
 Identify high-risk patients
 Monitor patient trends
 Optimize treatment plans
@@ -58,13 +58,15 @@ Improve quality of care
 Streamline processes
 Contributing
 
+
+
 We welcome contributions to this project! If you'd like to contribute, please fork the repository and submit a pull request.   
 
-License
+<h4>License</h4>
 
 This project is licensed under the MIT License.   
 
-Acknowledgments
+<h4>Acknowledgments</h4>
 
 We would like to thank EY-GDS for their contributions to this project.
 
